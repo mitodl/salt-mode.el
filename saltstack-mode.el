@@ -1,5 +1,6 @@
 ;;; salt-mode.el --- SaltStack language mode
-;;; Copyright (C) 2017
+;;; Copyright (C) 2017 Massachusetts Institute of Technology
+;;; Author: Tobias Macey
 ;;; Code:
 ;;; Commentary:
 (defconst saltstack-mode-syntax-table
